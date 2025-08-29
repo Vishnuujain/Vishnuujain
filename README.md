@@ -180,10 +180,6 @@
   💼 **LinkedIn:** [vishnu-jain-637547252](https://www.linkedin.com/in/vishnu-jain-637547252/)  
   📍 **Location:** New Delhi, India | IIT Roorkee
   
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Would+love+to+chat+if+you're+developing+something+incredible!" alt="Typing SVG" />
-  
 </div>
 
 ---
