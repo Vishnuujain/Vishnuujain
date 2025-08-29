@@ -8,7 +8,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-jain-637547252/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnu_j@mt.iitr.ac.in)
-  ![Profile Views](https://komarev.com/ghpvc/?username=vishnujain&style=for-the-badge&color=00D9FF)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Vishnuujain&style=for-the-badge&color=00D9FF)
   ![Followers](https://img.shields.io/badge/Followers-3.6K%2B-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)
   
 </div>
@@ -167,12 +167,12 @@
 ## 📊 AI/ML Contributions & GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnujain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnujain&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnuujain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnuujain&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnujain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnuujain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF" width="98%" />
 </div>
 
 ---
