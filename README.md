@@ -1,7 +1,7 @@
 # <div align="center">🧠 Vishnu Jain | AI/ML Engineer</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=🤖+AI+Engineer+@+IIT+Roorkee+|+3.6K%2B+Followers;🧬+Specializing+in+LLMs+%2B+GenAI+%2B+Deep+Learning;📊+Data+Science+%2B+ML+Ops+%2B+Cloud+Architecture;🏆+National+Gold+Medalist+|+Building+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=🤖+AI+Engineer+@+IIT+Roorkee+|+4K%2B+Followers;🧬+Specializing+in+LLMs+%2B+GenAI+%2B+Deep+Learning;📊+Data+Science+%2B+ML+Ops+%2B+Cloud+Architecture;🏆+National+Gold+Medalist+|+Building+AI+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-jain-637547252/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnu_j@mt.iitr.ac.in)
   ![Profile Views](https://komarev.com/ghpvc/?username=Vishnuujain&style=for-the-badge&color=00D9FF)
-  ![Followers](https://img.shields.io/badge/Followers-3.6K%2B-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![Followers](https://img.shields.io/badge/Followers-4K%2B-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)
   
 </div>
 
@@ -31,17 +31,10 @@
 - **☁️ ML Operations:** Model Deployment, A/B Testing, Pipeline Automation
 - **🔬 Research:** Published research on AI applications, Y Combinator participant
 
-### 💼 Current Focus
-
-🔭 **Data & ML Intern @ Walking on Earth, London**
-- Building **LLM-powered mental health analysis** systems
-- Designing **real-time ML pipelines** processing 40+ event properties
-- Implementing **personalized AI report generation** with psychological insights
-
 ### 🎓 Academic Excellence
 
 **🏛️ Indian Institute of Technology, Roorkee**
-- B.Tech in Metallurgical & Materials Engineering (2022-2026)
+- Bachelor of Technology (2022-2026)
 - **AI/ML Specialization** with 3+ skills certification
 - **Y Combinator AI Startup School** - First Cohort Graduate
 
@@ -156,7 +149,7 @@
 
 <div align="center">
 
-| 🥇 **National Gold Medal** | 🎓 **Reliance Scholar** | 🏅 **AIR-1** | 🌟 **State Rank-1** |
+| 🥇 **National Gold Medal** | 🎓 **Reliance Scholar** | 🏅 **AIR-1** | 🌟 **National Rank-1** |
 |:---:|:---:|:---:|:---:|
 | India Skills Championship 2024<br>Renewable Energy<br>(Among 2.5L participants) | RF Undergraduate Scholar<br>2022-26<br>(Top 5000 from 1L+) | AglaSem Talent Search<br>2022<br>(Among 50K+ students) | International Reasoning<br>& Aptitude Olympiad<br>2021 |
 
